@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header {
+  max-width: 960px;
+  margin: 25px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+main {
+  max-width: 960px;
+  margin: 25px auto;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+button {
+  padding: 10px 18px;
+  background: rgb(108, 71, 255);
+  color: white;
+  border-radius: 3px;
+}
