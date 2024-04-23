@@ -11,12 +11,6 @@ export default function Home() {
     <>
       <header>
         <h3>My Cool App</h3>
-        <SignedOut>
-          <SignInButton />
-        </SignedOut>
-        <SignedIn>
-          <UserButton />
-        </SignedIn>
       </header>
       <main>
         <p>This is where my app content would go</p>
