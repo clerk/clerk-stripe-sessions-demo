@@ -1,7 +1,6 @@
 import {
   SignInButton,
-  SignedOut,
-  SignedIn,
+  Show,
   UserButton,
   OrganizationSwitcher,
 } from "@clerk/nextjs";
