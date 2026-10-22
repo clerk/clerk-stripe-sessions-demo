@@ -1,11 +1,3 @@
-import {
-  SignInButton,
-  Show,
-  UserButton,
-  OrganizationSwitcher,
-} from "@clerk/nextjs";
-import { Suspense } from "react";
-
 export default function Home() {
   return (
     <>
